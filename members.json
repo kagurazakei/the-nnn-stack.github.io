@@ -4,9 +4,15 @@
   { "github": "brianmcgee" },
   { "github": "crayonnova", "dotfiles": "https://github.com/crayonnova/dotfiles" },
   { "github": "ferguscollins" },
+  { "github": "floatdrop", "dotfiles": "https://github.com/floatdrop/nnn-starter" },
+  { "github": "fosskar", "dotfiles": "https://github.com/fosskar/nixfiles" },
   { "github": "Keyruu", "dotfiles": "https://github.com/Keyruu/shinyflakes" },
+  { "github": "luvcie", "dotfiles": "https://github.com/luvcie/dotnixes" },
+  { "github": "ly-sec", "dotfiles": "https://github.com/ly-sec/nixos" },
+  { "github": "martyTF", "dotfiles": "https://git.marty.tf/marty/config.nix" },
   { "github": "matejc", "dotfiles": "https://github.com/matejc/helper_scripts" },
   { "github": "Mic92", "dotfiles": "https://github.com/Mic92/dotfiles" },
+  { "github": "NikSneMC", "dotfiles": "https://codeberg.org/NikSne/NikSOS" },
   { "github": "oddlama", "dotfiles": "https://github.com/oddlama/nix-config" },
   { "github": "phaer" },
   { "github": "pogoba", "dotfiles": "https://github.com/pogoba/dotfiles" },
@@ -14,5 +20,6 @@
   { "github": "Scrumplex", "dotfiles": "https://github.com/Scrumplex/flake" },
   { "github": "lukasz-sz96", "dotfiles": "https://github.com/lukasz-sz96/nixos-config" },
   { "github": "sroberts", "dotfiles": "https://github.com/sroberts/nixos-setup" },
-  { "github": "luvcie", "dotfiles": "https://github.com/luvcie/dotnixes" }
+  { "github": "0xSylvester", "dotfiles": "https://github.com/0xSylvester/nixos-config"},
+  { "github": "tuxy", "dotfiles": "https://github.com/tuxy/nixos" }
 ]
