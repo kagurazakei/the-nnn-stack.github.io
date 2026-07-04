@@ -6,6 +6,7 @@
   { "github": "ferguscollins" },
   { "github": "floatdrop", "dotfiles": "https://github.com/floatdrop/nnn-starter" },
   { "github": "fosskar", "dotfiles": "https://github.com/fosskar/nixfiles" },
+  { "github": "jeffydc", "dotfiles": "https://tangled.org/jeffydc.xyz/nixfra" },
   { "github": "Keyruu", "dotfiles": "https://github.com/Keyruu/shinyflakes" },
   { "github": "luvcie", "dotfiles": "https://github.com/luvcie/dotnixes" },
   { "github": "ly-sec", "dotfiles": "https://github.com/ly-sec/nixos" },
